@@ -1,9 +1,22 @@
-function App() {
+import React from "react";
+
+import { Home, About } from "./pages";
+
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
+const App = () => {
   return (
-    <div className="App flex justify-center">
-      <h1 className="text-blue-600 text-4xl">Hello to Frontend Mentor Bootstrap</h1>
-    </div>
+    <Router>
+      <Switch>
+        <Route path="/frontend-mentor-7-coffeeroasters-subscription-site/about">
+          <About />
+        </Route>
+        <Route path="/frontend-mentor-7-coffeeroasters-subscription-site/">
+          <Home />
+        </Route>
+      </Switch>
+    </Router>
   );
-}
+};
 
 export default App;
