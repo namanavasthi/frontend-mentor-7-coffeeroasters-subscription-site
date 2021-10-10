@@ -1,9 +1,12 @@
 import React from "react";
 
+import { Section } from "../Section";
+import { Hero } from "../Hero";
+
 export const Home = () => {
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
+    <Section>
+      <Hero />
+    </Section>
   );
 };
