@@ -1,25 +1,9 @@
-# Frontend Mentor Bootstrap
-
-Wanted to create a bootstrap starter for any frontend mentor project that I'd like to work on.
-
-## Features
-
-- enabled via CRA
-- have tailwind support
-- gh-pages initialized
-
-## Steps
-
-- fork this repo into project based repo
-- `npm i`
-- setup github pages as described [in this article](https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14) or follow these instructions
-  - Go to repo -> settings -> GitHub pages section and setup source to the `gh-pages` branch.
-- go to homepage url
+# Frontend Mentor : Coffeeroasters subscription site
 
 ```
-Name :
-Description :
-Difficulty :
-Status:
-Challenge :
+Name : Coffeeroasters subscription site
+Description : This challenge will have you building a 3-page subscription site. As part of the project, you'll create an interactive subscription page to test your JS and logic skills!
+Difficulty : 3-INTERMEDIATE
+Status: Progress
+Challenge : https://www.frontendmentor.io/challenges/coffeeroasters-subscription-site-5Fc26HVY6
 ```
