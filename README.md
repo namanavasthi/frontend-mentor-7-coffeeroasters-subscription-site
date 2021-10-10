@@ -11,4 +11,5 @@ Challenge : https://www.frontendmentor.io/challenges/coffeeroasters-subscription
 ## TODO
 
 - setup router ✅
-- start with page layouts
+- start with page layouts ✅
+- work on homepage layout
