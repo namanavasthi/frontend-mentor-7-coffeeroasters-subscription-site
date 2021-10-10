@@ -2,16 +2,17 @@ import React from "react";
 
 import { Home, About } from "./pages";
 
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 const App = () => {
   return (
     <Router>
+      <Link to="/about">About</Link>
       <Switch>
-        <Route path="/frontend-mentor-7-coffeeroasters-subscription-site/about">
+        <Route path="/about">
           <About />
         </Route>
-        <Route path="/frontend-mentor-7-coffeeroasters-subscription-site/">
+        <Route path="/">
           <Home />
         </Route>
       </Switch>
