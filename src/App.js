@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Home, About } from "./pages";
+import { Home, About, Plan } from "./pages";
 
 import { Wrapper } from "./Wrapper";
 import { Header } from "./Header";
@@ -15,6 +15,9 @@ const App = () => {
       <Router>
         {/* <Link to="/about">About</Link> */}
         <Switch>
+          <Route path="/plan">
+            <Plan />
+          </Route>
           <Route path="/about">
             <About />
           </Route>

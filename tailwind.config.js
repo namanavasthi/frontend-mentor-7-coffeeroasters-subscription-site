@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         neutral: {
           100: "#FEFCF7",
+          200: "#A2A2A2",
         },
       },
     },
