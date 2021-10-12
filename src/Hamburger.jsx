@@ -25,12 +25,12 @@ const Modal = ({ show, children, className }) => {
       menuRoot.classList.remove("hidden");
       menuRoot.classList.add("absolute");
       menuRoot.classList.add("left-0");
-      menuRoot.classList.add("top-24");
+      menuRoot.classList.add("top-90");
     } else {
       menuRoot.classList.add("hidden");
       menuRoot.classList.remove("absolute");
       menuRoot.classList.remove("left-0");
-      menuRoot.classList.remove("top-24");
+      menuRoot.classList.remove("top-90");
     }
   }, [show]);
 
@@ -54,7 +54,9 @@ export const Hamburger = () => {
 
   return (
     <>
-      <button onClick={() => setIsOpen(!isOpen)}>{isOpen ? <MdClose /> : <MdMenu />}</button>
+      <button className="text-26" onClick={() => setIsOpen(!isOpen)}>
+        {isOpen ? <MdClose /> : <MdMenu />}
+      </button>
       <Modal className="px-6" show={isOpen}>
         <hr className="w-full border-neutral-200 border-opacity-50 pb-5" />
         <NavList />
