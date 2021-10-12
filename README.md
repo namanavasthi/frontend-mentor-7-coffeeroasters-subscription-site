@@ -8,8 +8,4 @@ Status: Progress
 Challenge : https://www.frontendmentor.io/challenges/coffeeroasters-subscription-site-5Fc26HVY6
 ```
 
-## TODO
-
-- setup router ✅
-- start with page layouts ✅
-- work on homepage layout
+## Thoughts
