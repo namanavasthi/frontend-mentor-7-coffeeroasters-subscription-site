@@ -4,10 +4,13 @@ module.exports = {
   theme: {
     extend: {
       spacing: {
+        8: "8px",
+        12: "12px",
         13: "13px",
         15: "15px",
         16: "16px",
         18: "18px",
+        22: "22px",
         23: "23px",
         24: "24px",
         25: "25px",
@@ -20,9 +23,12 @@ module.exports = {
         36: "36px",
         40: "40px",
         48: "48px",
+        54: "54px",
         56: "56px",
         61: "61px",
         64: "64px",
+        67: "67px",
+        72: "72px",
         80: "80px",
         90: "90px",
         120: "120px",
@@ -38,12 +44,14 @@ module.exports = {
       fontSize: {
         15: "15px",
         18: "18px",
+        22: "22px",
         24: "24px",
         28: "28px",
         40: "40px",
         72: "72px",
       },
       lineHeight: {
+        22: "22px",
         25: "25px",
         32: "32px",
         40: "40px",
@@ -51,6 +59,7 @@ module.exports = {
       },
       letterSpacing: {
         0: "0px",
+        0.92: "0.92px",
       },
       colors: {
         neutral: {
