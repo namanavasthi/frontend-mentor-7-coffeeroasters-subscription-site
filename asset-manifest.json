@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.css": "/frontend-mentor-7-coffeeroasters-subscription-site/static/css/main.d80f2e38.chunk.css",
-    "main.js": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/main.178eb4c3.chunk.js",
-    "main.js.map": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/main.178eb4c3.chunk.js.map",
+    "main.css": "/frontend-mentor-7-coffeeroasters-subscription-site/static/css/main.33b87295.chunk.css",
+    "main.js": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/main.803c6c95.chunk.js",
+    "main.js.map": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/main.803c6c95.chunk.js.map",
     "runtime-main.js": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/runtime-main.99ed1fd0.js",
     "runtime-main.js.map": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/runtime-main.99ed1fd0.js.map",
-    "static/js/2.04bb1186.chunk.js": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/2.04bb1186.chunk.js",
-    "static/js/2.04bb1186.chunk.js.map": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/2.04bb1186.chunk.js.map",
+    "static/js/2.2970a188.chunk.js": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/2.2970a188.chunk.js",
+    "static/js/2.2970a188.chunk.js.map": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/2.2970a188.chunk.js.map",
     "index.html": "/frontend-mentor-7-coffeeroasters-subscription-site/index.html",
-    "static/css/main.d80f2e38.chunk.css.map": "/frontend-mentor-7-coffeeroasters-subscription-site/static/css/main.d80f2e38.chunk.css.map",
-    "static/js/2.04bb1186.chunk.js.LICENSE.txt": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/2.04bb1186.chunk.js.LICENSE.txt"
+    "static/css/main.33b87295.chunk.css.map": "/frontend-mentor-7-coffeeroasters-subscription-site/static/css/main.33b87295.chunk.css.map",
+    "static/js/2.2970a188.chunk.js.LICENSE.txt": "/frontend-mentor-7-coffeeroasters-subscription-site/static/js/2.2970a188.chunk.js.LICENSE.txt",
+    "static/media/bg-quality.bc64fec6.png": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/bg-quality.bc64fec6.png",
+    "static/media/icon-coffee-bean.a39b0780.svg": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/icon-coffee-bean.a39b0780.svg",
+    "static/media/icon-gift.611b8a07.svg": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/icon-gift.611b8a07.svg",
+    "static/media/icon-truck.6a10e7c2.svg": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/icon-truck.6a10e7c2.svg",
+    "static/media/image-danche.42b87a74.png": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/image-danche.42b87a74.png",
+    "static/media/image-gran-espresso.fc5aa0dc.png": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/image-gran-espresso.fc5aa0dc.png",
+    "static/media/image-hero-coffeepress.1777efd6.jpg": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/image-hero-coffeepress.1777efd6.jpg",
+    "static/media/image-hero-coffeepress.73479cf6.jpg": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/image-hero-coffeepress.73479cf6.jpg",
+    "static/media/image-piccollo.304c8160.png": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/image-piccollo.304c8160.png",
+    "static/media/image-planalto.33bcba48.png": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/image-planalto.33bcba48.png",
+    "static/media/logo.a2512c0f.svg": "/frontend-mentor-7-coffeeroasters-subscription-site/static/media/logo.a2512c0f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.99ed1fd0.js",
-    "static/js/2.04bb1186.chunk.js",
-    "static/css/main.d80f2e38.chunk.css",
-    "static/js/main.178eb4c3.chunk.js"
+    "static/js/2.2970a188.chunk.js",
+    "static/css/main.33b87295.chunk.css",
+    "static/js/main.803c6c95.chunk.js"
   ]
 }
