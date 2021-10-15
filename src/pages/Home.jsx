@@ -4,6 +4,7 @@ import { Section } from "../Section";
 import { Hero } from "../Hero";
 import { Collection } from "../Collection";
 import { Choice } from "../Choice";
+import { Works } from "../Works";
 
 export const Home = () => {
   return (
@@ -16,6 +17,9 @@ export const Home = () => {
       </Section>
       <Section>
         <Choice />
+      </Section>
+      <Section>
+        <Works />
       </Section>
     </>
   );
