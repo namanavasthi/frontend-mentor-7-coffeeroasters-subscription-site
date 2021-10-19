@@ -25,12 +25,12 @@ const Modal = ({ show, children, className }) => {
       menuRoot.classList.remove("hidden");
       menuRoot.classList.add("absolute");
       menuRoot.classList.add("left-0");
-      menuRoot.classList.add("top-90");
+      menuRoot.classList.add("top-82");
     } else {
       menuRoot.classList.add("hidden");
       menuRoot.classList.remove("absolute");
       menuRoot.classList.remove("left-0");
-      menuRoot.classList.remove("top-90");
+      menuRoot.classList.remove("top-82");
     }
   }, [show]);
 
